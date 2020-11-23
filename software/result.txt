@@ -1,0 +1,8 @@
+input : 
+ わたし わ* すいす じん です
+ouput : 
+ watashi wa* suisu jin desu
+input : 
+ いいえ, わたし も* ふらんす です
+ouput : 
+ iie, watashi mo* furansu desu
